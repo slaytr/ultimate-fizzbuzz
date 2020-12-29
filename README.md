@@ -5,7 +5,7 @@ But for multiples of three print “Fizz” instead of the number and for the mu
 For numbers which are multiples of both three and five print “FizzBuzz”.
 
 ###
-This repository is updated daily and adds support for 10 integers each night, if your number is not supported yet.
+This repository is updated daily and adds extra support for 10 integers each night, if your number is not supported yet.
 Be patient and wait a few days.
 
 ### Example
