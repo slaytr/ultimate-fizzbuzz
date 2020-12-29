@@ -16,6 +16,7 @@ def update_fizzbuzz(event, context):
     code = base64.b64decode(data['content']).decode('utf-8').split("\n")
 
     # Update FizzBuzz
+    code.pop()
     max_num = int(code[-2].split(" ")[-1][:-1])
     increment_by = 10
     for i in range(max_num + 1, max_num + increment_by + 1):
@@ -29,6 +30,7 @@ def update_fizzbuzz(event, context):
             code.append(f"            print('{out_str}')")
         else:
             code.append(f"            print({i})")
+    code.append("")
 
     # Encode content in base64 and prep github commit
     new_code = base64.b64encode("\n".join(code).encode('utf-8')).decode('utf-8')
