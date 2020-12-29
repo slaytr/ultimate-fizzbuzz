@@ -1,0 +1,9 @@
+service: update-fizzbuzz
+
+provider:
+  name: aws
+  runtime: python3.8
+
+functions:
+  UpdateFizzbuzz:
+    handler: handler.update_fizzbuzz
