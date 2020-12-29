@@ -7,3 +7,5 @@ provider:
 functions:
   UpdateFizzbuzz:
     handler: handler.update_fizzbuzz
+    events:
+      - schedule: rate(24 hours)

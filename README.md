@@ -33,3 +33,8 @@ def fizzbuzz(num: int):
         if i == 10:
             print("Buzz")
 ```
+
+### Packaging the Lambda
+`pip install --target . requests`
+
+`sls deploy`

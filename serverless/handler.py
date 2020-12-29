@@ -6,7 +6,7 @@ import os
 
 def update_fizzbuzz(event, context):
     token = os.environ['TOKEN']
-    filename = "python/fizzbuzz.py"
+    filename = "fizzbuzz.py"
     repo = "slaytr/ultimate-fizzbuzz"
     branch = "main"
     url = "https://api.github.com/repos/" + repo + "/contents/" + filename
