@@ -1,10 +1,11 @@
 import json
 import requests
 import base64
+import os
 
 
 def update_fizzbuzz(event, context):
-    token = "24c9e3513e00532f4d779a32f211dbb8b25cef27"
+    token = os.environ['TOKEN']
     filename = "python/fizzbuzz.py"
     repo = "slaytr/ultimate-fizzbuzz"
     branch = "main"
