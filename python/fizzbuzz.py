@@ -30,3 +30,23 @@ def fizzbuzz(num: int):
             print("Fizz")
         if i == 10:
             print("Buzz")
+        if i == 11:
+            print(11)
+        if i == 12:
+            print('Fizz')
+        if i == 13:
+            print(13)
+        if i == 14:
+            print(14)
+        if i == 15:
+            print('FizzBuzz')
+        if i == 16:
+            print(16)
+        if i == 17:
+            print(17)
+        if i == 18:
+            print('Fizz')
+        if i == 19:
+            print(19)
+        if i == 20:
+            print('Buzz')
