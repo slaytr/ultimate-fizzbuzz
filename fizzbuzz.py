@@ -70,3 +70,23 @@ def fizzbuzz(num: int):
             print(29)
         if i == 30:
             print('FizzBuzz')
+        if i == 31:
+            print(31)
+        if i == 32:
+            print(32)
+        if i == 33:
+            print('Fizz')
+        if i == 34:
+            print(34)
+        if i == 35:
+            print('Buzz')
+        if i == 36:
+            print('Fizz')
+        if i == 37:
+            print(37)
+        if i == 38:
+            print(38)
+        if i == 39:
+            print('Fizz')
+        if i == 40:
+            print('Buzz')
