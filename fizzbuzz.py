@@ -90,3 +90,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 40:
             print('Buzz')
+        if i == 41:
+            print(41)
+        if i == 42:
+            print('Fizz')
+        if i == 43:
+            print(43)
+        if i == 44:
+            print(44)
+        if i == 45:
+            print('FizzBuzz')
+        if i == 46:
+            print(46)
+        if i == 47:
+            print(47)
+        if i == 48:
+            print('Fizz')
+        if i == 49:
+            print(49)
+        if i == 50:
+            print('Buzz')
