@@ -110,3 +110,23 @@ def fizzbuzz(num: int):
             print(49)
         if i == 50:
             print('Buzz')
+        if i == 51:
+            print('Fizz')
+        if i == 52:
+            print(52)
+        if i == 53:
+            print(53)
+        if i == 54:
+            print('Fizz')
+        if i == 55:
+            print('Buzz')
+        if i == 56:
+            print(56)
+        if i == 57:
+            print('Fizz')
+        if i == 58:
+            print(58)
+        if i == 59:
+            print(59)
+        if i == 60:
+            print('FizzBuzz')
