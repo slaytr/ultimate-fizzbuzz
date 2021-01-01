@@ -130,3 +130,23 @@ def fizzbuzz(num: int):
             print(59)
         if i == 60:
             print('FizzBuzz')
+        if i == 61:
+            print(61)
+        if i == 62:
+            print(62)
+        if i == 63:
+            print('Fizz')
+        if i == 64:
+            print(64)
+        if i == 65:
+            print('Buzz')
+        if i == 66:
+            print('Fizz')
+        if i == 67:
+            print(67)
+        if i == 68:
+            print(68)
+        if i == 69:
+            print('Fizz')
+        if i == 70:
+            print('Buzz')
