@@ -150,3 +150,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 70:
             print('Buzz')
+        if i == 71:
+            print(71)
+        if i == 72:
+            print('Fizz')
+        if i == 73:
+            print(73)
+        if i == 74:
+            print(74)
+        if i == 75:
+            print('FizzBuzz')
+        if i == 76:
+            print(76)
+        if i == 77:
+            print(77)
+        if i == 78:
+            print('Fizz')
+        if i == 79:
+            print(79)
+        if i == 80:
+            print('Buzz')
