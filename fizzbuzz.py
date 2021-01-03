@@ -170,3 +170,23 @@ def fizzbuzz(num: int):
             print(79)
         if i == 80:
             print('Buzz')
+        if i == 81:
+            print('Fizz')
+        if i == 82:
+            print(82)
+        if i == 83:
+            print(83)
+        if i == 84:
+            print('Fizz')
+        if i == 85:
+            print('Buzz')
+        if i == 86:
+            print(86)
+        if i == 87:
+            print('Fizz')
+        if i == 88:
+            print(88)
+        if i == 89:
+            print(89)
+        if i == 90:
+            print('FizzBuzz')
