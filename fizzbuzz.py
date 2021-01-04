@@ -190,3 +190,23 @@ def fizzbuzz(num: int):
             print(89)
         if i == 90:
             print('FizzBuzz')
+        if i == 91:
+            print(91)
+        if i == 92:
+            print(92)
+        if i == 93:
+            print('Fizz')
+        if i == 94:
+            print(94)
+        if i == 95:
+            print('Buzz')
+        if i == 96:
+            print('Fizz')
+        if i == 97:
+            print(97)
+        if i == 98:
+            print(98)
+        if i == 99:
+            print('Fizz')
+        if i == 100:
+            print('Buzz')
