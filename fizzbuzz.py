@@ -270,3 +270,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 130:
             print('Buzz')
+        if i == 131:
+            print(131)
+        if i == 132:
+            print('Fizz')
+        if i == 133:
+            print(133)
+        if i == 134:
+            print(134)
+        if i == 135:
+            print('FizzBuzz')
+        if i == 136:
+            print(136)
+        if i == 137:
+            print(137)
+        if i == 138:
+            print('Fizz')
+        if i == 139:
+            print(139)
+        if i == 140:
+            print('Buzz')
