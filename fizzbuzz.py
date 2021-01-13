@@ -370,3 +370,23 @@ def fizzbuzz(num: int):
             print(179)
         if i == 180:
             print('FizzBuzz')
+        if i == 181:
+            print(181)
+        if i == 182:
+            print(182)
+        if i == 183:
+            print('Fizz')
+        if i == 184:
+            print(184)
+        if i == 185:
+            print('Buzz')
+        if i == 186:
+            print('Fizz')
+        if i == 187:
+            print(187)
+        if i == 188:
+            print(188)
+        if i == 189:
+            print('Fizz')
+        if i == 190:
+            print('Buzz')
