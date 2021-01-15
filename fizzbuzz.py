@@ -410,3 +410,23 @@ def fizzbuzz(num: int):
             print(199)
         if i == 200:
             print('Buzz')
+        if i == 201:
+            print('Fizz')
+        if i == 202:
+            print(202)
+        if i == 203:
+            print(203)
+        if i == 204:
+            print('Fizz')
+        if i == 205:
+            print('Buzz')
+        if i == 206:
+            print(206)
+        if i == 207:
+            print('Fizz')
+        if i == 208:
+            print(208)
+        if i == 209:
+            print(209)
+        if i == 210:
+            print('FizzBuzz')
