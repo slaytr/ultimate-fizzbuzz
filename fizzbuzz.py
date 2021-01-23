@@ -570,3 +570,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 280:
             print('Buzz')
+        if i == 281:
+            print(281)
+        if i == 282:
+            print('Fizz')
+        if i == 283:
+            print(283)
+        if i == 284:
+            print(284)
+        if i == 285:
+            print('FizzBuzz')
+        if i == 286:
+            print(286)
+        if i == 287:
+            print(287)
+        if i == 288:
+            print('Fizz')
+        if i == 289:
+            print(289)
+        if i == 290:
+            print('Buzz')
