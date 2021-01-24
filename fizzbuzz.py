@@ -590,3 +590,23 @@ def fizzbuzz(num: int):
             print(289)
         if i == 290:
             print('Buzz')
+        if i == 291:
+            print('Fizz')
+        if i == 292:
+            print(292)
+        if i == 293:
+            print(293)
+        if i == 294:
+            print('Fizz')
+        if i == 295:
+            print('Buzz')
+        if i == 296:
+            print(296)
+        if i == 297:
+            print('Fizz')
+        if i == 298:
+            print(298)
+        if i == 299:
+            print(299)
+        if i == 300:
+            print('FizzBuzz')
