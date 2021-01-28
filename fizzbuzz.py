@@ -670,3 +670,23 @@ def fizzbuzz(num: int):
             print(329)
         if i == 330:
             print('FizzBuzz')
+        if i == 331:
+            print(331)
+        if i == 332:
+            print(332)
+        if i == 333:
+            print('Fizz')
+        if i == 334:
+            print(334)
+        if i == 335:
+            print('Buzz')
+        if i == 336:
+            print('Fizz')
+        if i == 337:
+            print(337)
+        if i == 338:
+            print(338)
+        if i == 339:
+            print('Fizz')
+        if i == 340:
+            print('Buzz')
