@@ -730,3 +730,23 @@ def fizzbuzz(num: int):
             print(359)
         if i == 360:
             print('FizzBuzz')
+        if i == 361:
+            print(361)
+        if i == 362:
+            print(362)
+        if i == 363:
+            print('Fizz')
+        if i == 364:
+            print(364)
+        if i == 365:
+            print('Buzz')
+        if i == 366:
+            print('Fizz')
+        if i == 367:
+            print(367)
+        if i == 368:
+            print(368)
+        if i == 369:
+            print('Fizz')
+        if i == 370:
+            print('Buzz')
