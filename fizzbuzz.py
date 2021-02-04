@@ -810,3 +810,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 400:
             print('Buzz')
+        if i == 401:
+            print(401)
+        if i == 402:
+            print('Fizz')
+        if i == 403:
+            print(403)
+        if i == 404:
+            print(404)
+        if i == 405:
+            print('FizzBuzz')
+        if i == 406:
+            print(406)
+        if i == 407:
+            print(407)
+        if i == 408:
+            print('Fizz')
+        if i == 409:
+            print(409)
+        if i == 410:
+            print('Buzz')
