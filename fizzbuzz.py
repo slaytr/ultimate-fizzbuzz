@@ -930,3 +930,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 460:
             print('Buzz')
+        if i == 461:
+            print(461)
+        if i == 462:
+            print('Fizz')
+        if i == 463:
+            print(463)
+        if i == 464:
+            print(464)
+        if i == 465:
+            print('FizzBuzz')
+        if i == 466:
+            print(466)
+        if i == 467:
+            print(467)
+        if i == 468:
+            print('Fizz')
+        if i == 469:
+            print(469)
+        if i == 470:
+            print('Buzz')
