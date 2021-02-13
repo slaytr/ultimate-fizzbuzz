@@ -990,3 +990,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 490:
             print('Buzz')
+        if i == 491:
+            print(491)
+        if i == 492:
+            print('Fizz')
+        if i == 493:
+            print(493)
+        if i == 494:
+            print(494)
+        if i == 495:
+            print('FizzBuzz')
+        if i == 496:
+            print(496)
+        if i == 497:
+            print(497)
+        if i == 498:
+            print('Fizz')
+        if i == 499:
+            print(499)
+        if i == 500:
+            print('Buzz')
