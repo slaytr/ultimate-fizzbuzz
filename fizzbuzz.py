@@ -1030,3 +1030,23 @@ def fizzbuzz(num: int):
             print(509)
         if i == 510:
             print('FizzBuzz')
+        if i == 511:
+            print(511)
+        if i == 512:
+            print(512)
+        if i == 513:
+            print('Fizz')
+        if i == 514:
+            print(514)
+        if i == 515:
+            print('Buzz')
+        if i == 516:
+            print('Fizz')
+        if i == 517:
+            print(517)
+        if i == 518:
+            print(518)
+        if i == 519:
+            print('Fizz')
+        if i == 520:
+            print('Buzz')
