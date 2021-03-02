@@ -1330,3 +1330,23 @@ def fizzbuzz(num: int):
             print(659)
         if i == 660:
             print('FizzBuzz')
+        if i == 661:
+            print(661)
+        if i == 662:
+            print(662)
+        if i == 663:
+            print('Fizz')
+        if i == 664:
+            print(664)
+        if i == 665:
+            print('Buzz')
+        if i == 666:
+            print('Fizz')
+        if i == 667:
+            print(667)
+        if i == 668:
+            print(668)
+        if i == 669:
+            print('Fizz')
+        if i == 670:
+            print('Buzz')
