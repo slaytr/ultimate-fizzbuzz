@@ -1470,3 +1470,23 @@ def fizzbuzz(num: int):
             print('Fizz')
         if i == 730:
             print('Buzz')
+        if i == 731:
+            print(731)
+        if i == 732:
+            print('Fizz')
+        if i == 733:
+            print(733)
+        if i == 734:
+            print(734)
+        if i == 735:
+            print('FizzBuzz')
+        if i == 736:
+            print(736)
+        if i == 737:
+            print(737)
+        if i == 738:
+            print('Fizz')
+        if i == 739:
+            print(739)
+        if i == 740:
+            print('Buzz')
